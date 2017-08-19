@@ -8,3 +8,13 @@ h2{
 	
 	color:maroon;
 }
+
+
+	@media (min-width:1200px){
+	p{
+		width:600px;
+		height:600px;
+		
+	}
+	
+	}
