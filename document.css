@@ -111,7 +111,7 @@ margin-left:auto;
 color:white;	
 		
 	}
-	
+	@media (min-width:1200px){
 	#box{
 		
 		background-color:blue;
@@ -120,8 +120,9 @@ color:white;
 		margin:40px;
 		width:300px;
 		overflow:auto;
+		box-sizing:border-box;
 	}
-	
+	}
 	#content{
 		
 		background-color:#90EE90;
